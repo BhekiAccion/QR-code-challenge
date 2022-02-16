@@ -5,8 +5,8 @@ body{
 
 .container{
     background-color: hsl(0, 0%, 100%);
-    width: 230px;
-    margin: auto;
+    width: 250px;
+    margin: auto auto;
     height: 400px;
     text-align: center;
     border-radius: 10px;
